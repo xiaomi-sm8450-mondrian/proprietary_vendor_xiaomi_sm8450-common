@@ -683,7 +683,9 @@
 
     <!-- Add for Singapore operator xiaomi-->
     <EccEntry Ecc="999" Category="0" Condition="1" Plmn = "525 03" />
+    <EccEntry Ecc="995" Category="2" Condition="1" Plmn = "525 03" />
     <EccEntry Ecc="999" Category="1" Condition="1" Plmn = "525 05" />
+    <EccEntry Ecc="995" Category="2" Condition="1" Plmn = "525 05" />
     <EccEntry Ecc="999" Category="31" Condition="1" Plmn = "525 01" />
 
     <!-- Add for Chile operator xiaomi-->
