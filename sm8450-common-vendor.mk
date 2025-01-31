@@ -289,17 +289,10 @@ PRODUCT_PACKAGES += \
     libQTEEConnector_vendor \
     libQcelp13SwCodec \
     libQtiRilLoadable \
-    lib_bt_aptx \
-    lib_bt_ble \
-    lib_bt_bundle \
     lib_bt_lhdc \
     libadm \
     libadsp_default_listener \
     libadsprpc \
-    libar-acdb \
-    libar-gpr \
-    libar-gsl \
-    libats \
     libaudio_log_utils \
     libaudiocloudctrl \
     libaudioroute_ext \
@@ -373,10 +366,7 @@ PRODUCT_PACKAGES += \
     liblowi_common \
     liblowi_wifihal \
     liblqe \
-    liblx-ar_util \
-    liblx-osal \
     libmasc \
-    libmcs \
     libmdmdetect \
     libmdmimgload \
     libmdsprpc \
@@ -609,7 +599,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss-V3-ndk \
     vendor.qti.gnss-V5-ndk \
     vendor.qti.gnss-service \
-    vendor.qti.hardware.AGMIPC@1.0-impl \
     vendor.qti.hardware.alarm@1.0 \
     vendor.qti.hardware.bluetooth_sar@1.0 \
     vendor.qti.hardware.bluetooth_sar@1.1 \
